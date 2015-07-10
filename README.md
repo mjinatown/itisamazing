@@ -1,0 +1,2 @@
+# itisamazing
+my personal repository
